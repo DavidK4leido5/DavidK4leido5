@@ -2,7 +2,7 @@
 
 ## Full-Stack Engineer | Building Businesses from Concept to Infrastructure
 
-I transform ideas into high-performance digital businesses. I don't just write code—I architect scalable, end-to-end solutions that drive growth, reliability, and exceptional user experiences. From initial product concept and UI/UX design to robust cloud infrastructure and CI/CD pipelines, I manage the full lifecycle of product development to help your business thrive.
+I transform ideas into high-performance digital businesses. I don't just write code, I architect scalable, end-to-end solutions that drive growth, reliability, and exceptional user experiences. From initial product concept and UI/UX design to robust cloud infrastructure and CI/CD pipelines, I manage the full lifecycle of product development to help your business thrive.
 
 ---
 
