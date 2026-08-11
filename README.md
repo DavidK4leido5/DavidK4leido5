@@ -36,6 +36,6 @@ I transform ideas into high-performance digital businesses. I don't just write c
 ### 📩 Let's Connect
 I am always open to discussing new partnerships or projects that require a dedicated full-stack approach.
 
-* **Portfolio:** [daddypeeg.github.io/portfolio](https://daddypeeg.github.io/portfolio)
+* **Portfolio:** [daddypeeg.github.io/portfolio]([https://daddypeeg.github.io/portfolio](https://davidk4leido5.github.io/portfolio-101/)
 * **LinkedIn:** [linkedin.com/in/davidrt1262/](https://www.linkedin.com/in/davidrt1262/)
-* **Email:** david.estrelloso.tribugenia@gmail.com
+* **Email:** developer.work.david@gmail.com
