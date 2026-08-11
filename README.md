@@ -12,6 +12,9 @@ I transform ideas into high-performance digital businesses. I don't just write c
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-%23FF4154.svg?style=for-the-badge&logo=tanstack&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-%234353FF.svg?style=for-the-badge&logo=webflow&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
 
 ### Backend & Architecture
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
